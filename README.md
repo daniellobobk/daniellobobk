@@ -5,6 +5,7 @@ Seja bem-vindo ao meu perfil do GitHub, onde compartilho meus projetos e avanço
 
 💻 Tenho conhecimentos em HTML, CSS e JavaScript, e estou empenhado em aprimorar minhas habilidades como programador front-end. Meu próximo objetivo é dominar o React, além de me aprofundar em UX (Experiência do Usuário) e IX (Interação do Usuário).
 
+
 📚 Estou constantemente explorando novas tecnologias e buscando aprender mais sobre Python e Java. Tenho uma paixão pelo desenvolvimento web e estou determinado a me tornar um programador front-end excepcional.
 
 🌱 Estou aberto a colaborações e sempre em busca de oportunidades para contribuir com projetos interessantes. Adoro enfrentar desafios e estou disposto a expandir minha experiência em programação.
