@@ -1,4 +1,4 @@
-## Meu nome é Daniel Lobo, estudante de tecnologia e futuro DEV front-end
+## Meu nome é Daniel Lobo, estudante de tecnologia e futuro DEV Back-end
 
 Seja bem-vindo ao meu perfil do GitHub, onde compartilho meus projetos e avanços em programação. Vamos aprender e crescer juntos nessa jornada!
 
