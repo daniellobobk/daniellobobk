@@ -1,5 +1,6 @@
 ## Meu nome é Daniel Lobo, estudante de tecnologia e futuro DEV Back-end
 
+
 Seja bem-vindo ao meu perfil do GitHub, onde compartilho meus projetos e avanços em programação. Vamos aprender e crescer juntos nessa jornada!
 
 💻 Tenho conhecimentos em HTML, CSS e JavaScript, e estou empenhado em aprimorar minhas habilidades como programador front-end. Meu próximo objetivo é dominar o React, além de me aprofundar em UX (Experiência do Usuário) e IX (Interação do Usuário).
